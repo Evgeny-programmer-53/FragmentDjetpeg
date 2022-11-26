@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">FragmentDjetpeg</string>
+    <string name="splash_fragment">Splash</string>
+    <string name="login_fragment">Login</string>
+    <string name="main_fragment">Main</string>
+    <string name="final_fragment">Final</string>
+    <string name="open_main_button">Открыть экран MAIN</string>
+    <string name="open_final_button">Открыть экран FINAL</string>
+    <string name="open_login_button">Открыть экран LOGIN</string>
+
+</resources>
